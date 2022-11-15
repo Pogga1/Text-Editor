@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 * [Contributing](#contributions)
 * [Tests](#test)
-* [Technologies used](#technologies used)
+* [Technologies Used](#technologies used)
 * [Questions](#questions)
 # Installation
 
