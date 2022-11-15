@@ -24,7 +24,7 @@
   Contributors: Andrew Eysoldt
 # Tests
   
-# Technologies Used
+# Technologies
   * 
   * 
   * 
