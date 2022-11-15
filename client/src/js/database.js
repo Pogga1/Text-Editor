@@ -19,7 +19,7 @@ export const putDb = async (content) => {
   const jateDb = await openDB('jate', 1);
   const tx = jateDb.transaction('jate', 'readwrite');
   const storage= tx.objectStore('jate');
-  const request = storage.add({id: 1, value: content});
+  const request = storage.add({content});//changed from id to just content
   const result = await request;
   console.log(result);
 
